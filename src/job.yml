@@ -1,3 +1,4 @@
+# Adding a comment to test the PR workflow
 $schema: https://azuremlschemas.azureedge.net/latest/commandJob.schema.json
 code: .
 command: >-
